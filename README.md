@@ -1,4 +1,4 @@
-# <h1>Banco de dados:League of Legends</h1>
+# Banco de dados:League of Legends</h1>
 Modulo  4  Resilia/Senac
 
 📜 O projeto:
