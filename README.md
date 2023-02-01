@@ -17,17 +17,15 @@ O obejtivo deste projeto é a manipular e vizualizar os dados inseridos em um ba
 <IMG SRC="https://imgur.com/002c4Yb.png" width="75%"></img>
 <h2>:joystick: Time :joystick:</h2>
 <ul>
-<li>
-:hearts: Danielle:<li>
+<li>:hearts: Danielle:<li>
 <li>:hearts: Daniel:</li>
-	<li>:hearts: Gabriel:</li>
-<li>:hearts: Maria:<li>
-		
-	</ul>
+<li>:hearts: Gabriel:</li>
+<li>:hearts: Maria:</li>
+</ul>
 
-	<h1>:computer_mouse: Ferramentas Utilizadas :computer_mouse:</h1>
-	<ul>
-  <l1>:diamonds: Mysql<li>
+<h1> :computer_mouse: Ferramentas Utilizadas :computer_mouse:</h1>
+<ul>
+ <l1>:diamonds: Mysql<li>
   <li>:diamonds: PowerBi</li>
   <li>:diamonds: MySQL Workbench</li>
 	</ul>
