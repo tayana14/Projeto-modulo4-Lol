@@ -23,8 +23,8 @@ O obejtivo deste projeto é a manipular e vizualizar os dados inseridos em um ba
 </ul>
 
 <h1> :computer_mouse: Ferramentas Utilizadas :computer_mouse:</h1>
-<ul><li>:diamonds: Mysql</li>
-<li>:diamonds: PowerBi</li>
-<li>:diamonds: MySQL Workbench</li>
+<ul><li>🔹 Mysql</li>
+<li>🔹 PowerBi</li>
+<li>🔹 MySQL Workbench</li>
 </ul>
 
