@@ -35,3 +35,12 @@ O obejtivo deste projeto é a manipular e vizualizar os dados inseridos em um ba
 
 <h1>:joystick: Perguntas: :joystick:</h1>
 <img src="https://imgur.com/h21vFN6.png" width="75%"></h1>
+
+<ul>
+<li>🔹 QUESTÃO 1:</li>
+<li>🔹 QUESTÃO 2:</li>
+<li>🔹 QUESTÃO 3: </li>
+<li>🔹 QUESTÃO 4:</li>
+<li>🔹 QUESTÃO 5:</li>
+  </ul>
+  <H1>:computer_mouse: Banco de Dados  :computer_mouse:</H1>
