@@ -30,4 +30,4 @@ O obejtivo deste projeto é a manipular e vizualizar os dados inseridos em um ba
 </ul>
 <IMG SRC="https://imgur.com/Hjm5LV1.png" width="75%"></img>
 <h1>📜 Diagrama 📜</h1>
-<IMG SRC="https://imgur.com/zpYM5Wz.png" width="75"></img>
+<IMG SRC="https://imgur.com/zpYM5Wz.png" width="75%"></img>
