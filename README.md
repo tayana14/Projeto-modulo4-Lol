@@ -11,3 +11,5 @@ O obejtivo deste projeto é a manipular e vizualizar os dados inseridos em um ba
 
 🔹Organização e utilização de ferramentas como MySQL, Github, PowerBi e Trello para organização e construção do projeto.
 
+<h1>:joystick: DashBoard com dados do League of Legends :joystick:</h1>
+
