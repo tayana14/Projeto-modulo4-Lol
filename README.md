@@ -17,10 +17,12 @@ O obejtivo deste projeto é a manipular e vizualizar os dados inseridos em um ba
 <IMG SRC="https://imgur.com/002c4Yb.png" width="75%"></img>
 <h2>:joystick: Time :joystick:</h2>
 <ul>
+	<li>
 :hearts: Danielle:
 :hearts: Daniel:
 :hearts: Gabriel:
 :hearts: Maria:
+		<li>
 	</ul>
 
 	<h1>:computer_mouse: Ferramentas Utilizadas :computer_mouse:</h1>
