@@ -16,7 +16,7 @@ O obejtivo deste projeto é a manipular e vizualizar os dados inseridos em um ba
 <img src="https://imgur.com/629ezq4.png" width="75%"></img>
 <IMG SRC="https://imgur.com/002c4Yb.png" width="75%"></img>
 <h2>:joystick: Time :joystick:</h2>
-<ul><li>:hearts: Danielle: Github.com/DaniiMii</li>
+<ul><li>:hearts: Danielle: http://Github.com/DaniiMii</li>
 <li>:hearts: Daniel: Github.com/Zarielgod</li>
 <li>:hearts: Gabriel: Github.com/pekim2</li>
 <li>:hearts: Maria: github.com/Mariacssl</li>
