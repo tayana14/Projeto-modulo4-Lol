@@ -37,11 +37,11 @@ O objetivo deste projeto é a manipular e visualizar os dados inseridos em um ba
 <img src="https://imgur.com/h21vFN6.png" width="75%"></h1>
 
 <ul>
-<li>🔹 QUESTÃO 1:</li>
-<li>🔹 QUESTÃO 2:</li>
-<li>🔹 QUESTÃO 3: </li>
-<li>🔹 QUESTÃO 4:</li>
-<li>🔹 QUESTÃO 5:</li>
+<li>🔹 QUESTÃO 1: Qual a porcentagem de monstros mais abatidos ?</li>
+<li>🔹 QUESTÃO 2: </li>
+<li>🔹 QUESTÃO 3: Quais campões mais banidos ?</li>
+<li>🔹 QUESTÃO 4: Qual porcentagem  de jogos nos anos de 2015/2016 dos times azuis ?</li>
+<li>🔹 QUESTÃO 5: Qual porcentagem  de jogos nos anos de 2015/2016 dos times Vermelhos</li>
   </ul>
   <H1>:computer_mouse: Banco de Dados  :computer_mouse:</H1>
   <img src="https://imgur.com/GB0TFMk.png" width="75%"></img>
