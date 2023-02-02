@@ -49,3 +49,4 @@ O objetivo deste projeto é a manipular e visualizar os dados inseridos em um ba
   
   <h1>:bar_chart: Dashboard  :bar_chart:</h1>
   <img src="https://imgur.com/yEO2spe.png" width="75%"></img>
+  <img src="https://imgur.com/undefined.png" wifth="75%"></img>
