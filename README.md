@@ -38,7 +38,7 @@ O objetivo deste projeto é a manipular e visualizar os dados inseridos em um ba
 
 <ul>
 <li>🔹 QUESTÃO 1: Qual a porcentagem de monstros mais abatidos ?</li>
-<li>🔹 QUESTÃO 2: </li>
+<li>🔹 QUESTÃO 2: Qual porcentagem acima de 5 kills cada jogador realizou ?</li>
 <li>🔹 QUESTÃO 3: Quais campões mais banidos ?</li>
 <li>🔹 QUESTÃO 4: Qual porcentagem  de jogos nos anos de 2015/2016 dos times azuis ?</li>
 <li>🔹 QUESTÃO 5: Qual porcentagem  de jogos nos anos de 2015/2016 dos times Vermelhos</li>
