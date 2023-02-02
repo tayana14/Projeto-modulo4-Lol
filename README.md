@@ -45,6 +45,7 @@ O obejtivo deste projeto é a manipular e vizualizar os dados inseridos em um ba
   </ul>
   <H1>:computer_mouse: Banco de Dados  :computer_mouse:</H1>
   <img src="https://imgur.com/GB0TFMk.png" width="75%"></img>
+  <img src="https://imgur.com/SI5Ohk1.png" width="75%"></img>
   
   <h1>:bar_chart: Dashboard  :bar_chart:</h1>
   <img src="https://imgur.com/yEO2spe.png" width="75%"></img>
