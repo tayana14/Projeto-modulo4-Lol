@@ -26,7 +26,7 @@ O objetivo deste projeto é a manipular e visualizar os dados inseridos em um ba
 <ul><li>🔹 Mysql</li>
 <li>🔹 PowerBi</li>
 <li>🔹 MySQL Workbench</li>
-<li>🔹 GitHub.</li>
+<li>🔹 GitHub</li>
 </ul>
 <IMG SRC="https://imgur.com/Hjm5LV1.png" width="75%"></img>
 <h1>📜 Diagrama 📜</h1>
